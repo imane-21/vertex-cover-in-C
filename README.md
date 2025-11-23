@@ -2,7 +2,7 @@
 
 Projet de M1 sur le problème de couverture de sommets (Vertex Cover), implémenté C.
 
-**Auteurs :** BARAHIMI Imane                 
+**Auteur :** BARAHIMI Imane                 
 
 ---
 
